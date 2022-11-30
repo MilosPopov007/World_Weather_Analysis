@@ -22,6 +22,10 @@ Geoapify API (GeoViews) was used to create a Customer Travel Destinations Map.
 
 ![This is an image](https://github.com/MilosPopov007/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
+[Vacation_Itinerary](https://github.com/MilosPopov007/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb) Finally, using the Geoapify Routing API, I created a travel route between the four cities on Australia's Gold Coast (with hotel data).  Marker layer map was plotted. Refactoring the code desire route may charge to your preferences. 
+
+![This is an image](https://github.com/MilosPopov007/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+
 
 
 
